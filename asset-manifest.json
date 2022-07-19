@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keep-App/tree/main/app-name/static/css/main.28a710ff.css",
+    "main.js": "/Keep-App/tree/main/app-name/static/js/main.72d67fa6.js",
+    "index.html": "/Keep-App/tree/main/app-name/index.html",
+    "main.28a710ff.css.map": "/Keep-App/tree/main/app-name/static/css/main.28a710ff.css.map",
+    "main.72d67fa6.js.map": "/Keep-App/tree/main/app-name/static/js/main.72d67fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a710ff.css",
+    "static/js/main.72d67fa6.js"
+  ]
+}
